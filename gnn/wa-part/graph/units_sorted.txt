@@ -1,0 +1,26 @@
+0 24173.7 2208 2445 1 Kungarra Formation
+1 31065.1 2775 2775 0 Bellary Formation
+2 39295.7 2031 2208 1 Cheela Springs Basalt
+3 71206.7 2890 3225 0 Milli Milli Inlier metagranitc unit
+4 102220 3221 3225 0 Rocklea Inlier metagranitic unit
+5 114352 3225 3530 0 Rocklea Inlier greenstones
+6 120742 2772 2775 0 Mount Roe Basalt
+7 122535 3225 3530 0 Milli Milli Inlier greenstones
+8 141806 2208 2208 1 Beasley River Quartzite
+9 147594 1796 2008 0 Ashburton Formation
+10 152152 1799 2008 0 Mount McGrath Formation
+11 206435 1799 2008 0 Duck Creek Dolomite
+12 311231 2208 2445 1 Turee Creek Group
+13 488947 2445 2445 0 Boolgeeda Iron Formation
+14 538491 2445 2449 0 Woongarra Rhyolite
+15 662311 2504 2597 0 Wittenoom Formation
+16 669724 2450 2451 1 Weeli Wolli Formation
+17 710796 2501 2541 0 Mount McRae Shale and Mount Sylvia Formation
+18 759447 2730 2745 0 Boongal Formation
+19 789449 2597 2629 0 Marra Mamba Iron Formation
+20 851318 2718 2730 0 Pyradie Formation
+21 911634 2749 2766 0 Hardey Formation
+22 913523 2451 2494 0 Brockman Iron Formation
+23 1.14654e+06 2715 2718 0 Bunjinah Formation
+24 1.58881e+06 2629 2713 1 Jeerinah Formation
+25 2.25828e+06 2629 2775 1 Fortescue Group

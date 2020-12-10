@@ -1,0 +1,25 @@
+formation,thickness median,thickness std,method
+Brockman_Iron_Formation,744.0,610.6546908625229,full
+Marra_Mamba_Iron_Formation,259.0,254.02738332600458,full
+Jeerinah_Formation,620.0,563.1469776861487,full
+Mount_Roe_Basalt,630.0,658.8103978770198,full
+Mount_McGrath_Formation,1256.5,509.0640103824535,full
+Pyradie_Formation,493.5,424.09300092073164,full
+Turee_Creek_Group,1484.5,620.1326471006022,full
+Beasley_River_Quartzite,431.0,76.66615941861181,full
+Boongal_Formation,440.5,246.69481821338147,full
+Mount_McRae_Shale_and_Mount_Sylvia_Formation,143.0,303.91390244314226,full
+Weeli_Wolli_Formation,606.5,570.4421871840201,full
+Duck_Creek_Dolomite,2096.0,978.2283305377465,full
+Wittenoom_Formation,189.0,432.3953063539633,full
+Boolgeeda_Iron_Formation,213.0,338.50652381699626,full
+Kungarra_Formation,771.0,nan,full
+Hardey_Formation,1109.0,864.8423298595189,full
+Woongarra_Rhyolite,391.5,574.9252070283607,full
+Ashburton_Formation,3908.0,nan,min
+Bunjinah_Formation,706.0,558.2506429105232,min
+Cheela_Springs_Basalt,620.0,nan,guess
+Fortescue_Group,620.0,nan,guess
+Bellary_Formation,620.0,nan,guess
+Milli_Milli_Inlier_metagranitc_unit,620.0,nan,guess
+Rocklea_Inlier_metagranitic_unit,620.0,nan,guess

@@ -1,0 +1,9 @@
+[submodule "gnn/gae"]
+	path = gnn/gae
+	url = https://github.com/tkipf/gae
+[submodule "gnn/map2loop-notebooks"]
+	path = gnn/map2loop-notebooks
+	url = https://github.com/yohanderose/map2loop2-notebooks.git
+[submodule "gnn/snap"]
+	path = gnn/snap
+	url = https://github.com/snap-stanford/snap.git

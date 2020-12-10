@@ -1,0 +1,27 @@
+,index,group number,index in group,number in group,code,group,uctype,colour
+0,0,1,1,3,Ashburton_Formation,Wyloo_Group,erode,#38DFA1
+1,1,1,2,3,Duck_Creek_Dolomite,Wyloo_Group,erode,#CD61A6
+2,2,1,3,3,Mount_McGrath_Formation,Wyloo_Group,erode,#4CE000
+3,3,2,1,2,Cheela_Springs_Basalt,Shingle_Creek_Group,erode,#088E3A
+4,4,2,2,2,Beasley_River_Quartzite,Shingle_Creek_Group,erode,#166FB2
+5,5,3,1,2,Turee_Creek_Group,Turee_Creek_Group,erode,#1DC2DF
+6,6,3,2,2,Kungarra_Formation,Turee_Creek_Group,erode,#CFDF4F
+7,7,4,1,7,Boolgeeda_Iron_Formation,Hamersley_Group,erode,#19ED98
+8,8,4,2,7,Woongarra_Rhyolite,Hamersley_Group,erode,#37382E
+9,9,4,3,7,Weeli_Wolli_Formation,Hamersley_Group,erode,#9BD87A
+10,10,4,4,7,Brockman_Iron_Formation,Hamersley_Group,erode,#DDFD2F
+11,11,4,5,7,Mount_McRae_Shale_and_Mount_Sylvia_Formation,Hamersley_Group,erode,#45FBDE
+12,12,4,6,7,Wittenoom_Formation,Hamersley_Group,erode,#09B52D
+13,13,4,7,7,Marra_Mamba_Iron_Formation,Hamersley_Group,erode,#D4D750
+14,14,5,1,8,Jeerinah_Formation,Fortescue_Group,erode,#EB57E2
+15,15,5,2,8,Fortescue_Group,Fortescue_Group,erode,#955BB5
+16,16,5,3,8,Bunjinah_Formation,Fortescue_Group,erode,#1E967F
+17,17,5,4,8,Pyradie_Formation,Fortescue_Group,erode,#2ED682
+18,18,5,5,8,Boongal_Formation,Fortescue_Group,erode,#660296
+19,19,5,6,8,Hardey_Formation,Fortescue_Group,erode,#0B53EF
+20,20,5,7,8,Mount_Roe_Basalt,Fortescue_Group,erode,#4871F7
+21,21,5,8,8,Bellary_Formation,Fortescue_Group,erode,#97E809
+22,22,6,1,1,Rocklea_Inlier_metagranitic_unit,Rocklea_Inlier_metagranitic_unit,erode,#D2255F
+23,23,7,1,1,Rocklea_Inlier_greenstones,Rocklea_Inlier_greenstones,erode,#650BDC
+24,24,8,1,1,Milli_Milli_Inlier_metagranitc_unit,Milli_Milli_Inlier_metagranitc_unit,erode,#754258
+25,25,9,1,1,Milli_Milli_Inlier_greenstones,Milli_Milli_Inlier_greenstones,erode,#870892

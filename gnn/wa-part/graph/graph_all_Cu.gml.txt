@@ -1,0 +1,108 @@
+22 Ashburton Formation
+17 Beasley River Quartzite
+20 Bellary Formation
+8 Boolgeeda Iron Formation
+15 Boongal Formation
+19 Brockman Iron Formation
+6 Bunjinah Formation
+24 Cheela Springs Basalt
+18 Duck Creek Dolomite
+5 Fortescue Group
+0 Hardey Formation
+4 Jeerinah Formation
+7 Kungarra Formation
+3 Marra Mamba Iron Formation
+12 Milli Milli Inlier greenstones
+13 Milli Milli Inlier metagranitc unit
+21 Mount McGrath Formation
+10 Mount McRae Shale and Mount Sylvia Formation
+1 Mount Roe Basalt
+16 Pyradie Formation
+11 Rocklea Inlier greenstones
+25 Rocklea Inlier metagranitic unit
+23 Turee Creek Group
+14 Weeli Wolli Formation
+9 Wittenoom Formation
+2 Woongarra Rhyolite
+
+0 1 0
+1 11 0
+1 25 0
+5 1 0
+0 12 0
+0 13 0
+5 0 0
+15 0 0
+16 0 0
+0 11 0
+0 25 0
+8 2 0
+2 14 0
+23 2 0
+2 19 0
+3 6 0
+9 3 0
+3 4 0
+6 0 0
+4 6 0
+9 4 0
+4 5 0
+10 3 0
+19 3 0
+5 6 0
+6 16 0
+6 15 0
+17 6 0
+18 6 0
+21 6 0
+23 6 0
+19 6 0
+23 8 0
+19 9 0
+10 9 0
+8 14 0
+21 8 0
+8 4 0
+8 3 0
+8 19 0
+19 10 0
+5 15 0
+25 11 0
+13 12 0
+14 19 0
+14 10 0
+16 15 0
+21 16 0
+5 16 0
+14 9 0
+17 19 0
+10 4 0
+14 4 0
+19 4 0
+21 4 0
+18 17 0
+17 23 0
+18 19 0
+18 14 0
+18 5 0
+18 21 1
+22 18 0
+18 23 0
+18 4 0
+18 3 0
+21 19 0
+23 14 0
+21 14 0
+21 10 0
+19 5 0
+17 14 0
+3 5 0
+21 5 0
+24 17 0
+21 17 0
+21 23 0
+23 4 0
+1 20 0
+7 8 0
+21 9 0
+21 3 0

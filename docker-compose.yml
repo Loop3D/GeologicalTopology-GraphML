@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  gnn:
+    build: ./gnn
+    volumes:
+      - ./gnn:/home/gnn
+    ports:
+      - 8889:8888
+    command: tail -F blah
